@@ -66,7 +66,6 @@ flowchart LR
 
 | Asset | Format | Location / Link |
 | :--- | :--- | :--- |
-| **Project Presentation** | PowerPoint (.pptx) | [`PS-020_SRv6_Path_Steering_Hackathon_Bullet_Points.pptx`](PS-020_SRv6_Path_Steering_Hackathon_Bullet_Points.pptx) *(main branch)* |
 | **Presentation PDF** | PDF (.pdf) | [View in `presentation` branch](https://github.com/MithilK2006/A3-PS020-TC178/blob/presentation/PS-020_SRv6_Hackathon_Presentation.pdf) |
 | **Proposed Structure Reference** | PDF (.pdf) | [`PPT Presentation Proposed-structure-hackathon.pdf`](PPT%20Presentation%20Proposed-structure-hackathon.pdf) *(main branch)* |
 | **Video Walkthrough** | YouTube | [Watch on YouTube](https://youtu.be/NiIbHxnKrSQ?si=Obk-cFiCMqS2Yi7Z) |
