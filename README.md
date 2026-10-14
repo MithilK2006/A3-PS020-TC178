@@ -64,9 +64,14 @@ flowchart LR
 
 ## 📁 Repository Deliverables & Resources
 
+### 📊 Presentation PDF (In-Browser Viewer)
+> Click below to view the presentation directly inside GitHub without downloading:  
+> 👉 **[Open `PS-020_SRv6_Hackathon_Presentation.pdf` in GitHub](https://github.com/MithilK2006/A3-PS020-TC178/blob/main/PS-020_SRv6_Hackathon_Presentation.pdf)**
+
 | Asset | Format | Location / Link |
 | :--- | :--- | :--- |
-| **Proposed Structure Reference** | PDF (.pdf) | [📄 View Structure Reference in GitHub](PPT%20Presentation%20Proposed-structure-hackathon.pdf) |
+| **Team Presentation Slides** | PDF (.pdf) | [📄 View Slides in GitHub](https://github.com/MithilK2006/A3-PS020-TC178/blob/main/PS-020_SRv6_Hackathon_Presentation.pdf) |
+| **Proposed Structure Reference** | PDF (.pdf) | [📄 View Structure Reference in GitHub](https://github.com/MithilK2006/A3-PS020-TC178/blob/main/PPT%20Presentation%20Proposed-structure-hackathon.pdf) |
 | **Video Walkthrough** | YouTube | [▶️ Watch on YouTube](https://youtu.be/NiIbHxnKrSQ?si=Obk-cFiCMqS2Yi7Z) |
 
 ---
