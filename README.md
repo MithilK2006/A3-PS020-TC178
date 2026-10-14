@@ -66,7 +66,6 @@ flowchart LR
 
 | Asset | Format | Location / Link |
 | :--- | :--- | :--- |
-| **Presentation PDF** | PDF (.pdf) | [📄 View Presentation Directly in GitHub](PS-020_SRv6_Hackathon_Presentation.pdf) |
 | **Proposed Structure Reference** | PDF (.pdf) | [📄 View Structure Reference in GitHub](PPT%20Presentation%20Proposed-structure-hackathon.pdf) |
 | **Video Walkthrough** | YouTube | [▶️ Watch on YouTube](https://youtu.be/NiIbHxnKrSQ?si=Obk-cFiCMqS2Yi7Z) |
 
